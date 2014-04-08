@@ -4,7 +4,7 @@ MouseControl
 Control your mouse with .NET
 
 
-*Methods*
+**Methods**
 * Move(int x, int y)
 * LeftClick(int x, int y) // Position optional
 * RightClick(int x, int y) // Position optional
